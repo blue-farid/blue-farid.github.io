@@ -57,7 +57,7 @@ params:
   title: "Farid Masjedi"
   description: farid masjedi personal site!
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.webp"
+  favicon: "/blue-farid.webp"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -123,8 +123,8 @@ params:
     enable: true
     intro: "Hey, my name is"
     title: "Farid Masjedi."
-    subtitle: "I code for a living!"
-    content: "A passionate Software Engineer based in Iran, Tehran."
+    subtitle: "Crafting code and engineering software solutions is not just my job; It's my passion!"
+    content: "dedicated Software Engineer with a zest for problem-solving and innovation, right here from the vibrant city of Tehran, Iran."
     image: "/profile.jpg"
     bottomImage:
       enable: true
@@ -157,57 +157,62 @@ params:
     title: "About Me"
       #image: "/me.jpg"
     content: |-
-      I am a software engineer with a passion for web development. I have a background in computer science and mathematics. I am currently working as a software engineer at [Snapp! Box](https://app.snapp-box.com) in Tehran, Iran. And I am currently studying as a Computer Engineer at [Amirkabir University of Technology](https://aut.ac.ir) 
+      I'm Farid Masjedi, a passionate backend developer and software engineer, currently advancing the logistics and delivery ecosystem at [Snapp! Box](https://snapp-box.com) in Tehran. My academic journey in Computer Engineering unfolds at [Amirkabir University](https://aut.ac.ir). I excel in orchestrating complex projects, evidenced by my successful key contributions in Snapp! Box. Technically proficient in Java and OOP, I leverage frameworks like Spring and tools such as Docker to build robust solutions. 
 
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "Web Development"
         - "Java"
-        - "Spring Framework"
+        - "Spring Boot Framework"
         - "Docker"
+        - "Kubernetes"
         - "Git"
         - "MySQL"
         - "C"
-        - "Python"  
+        - "Python"
+        - "Maven"
 
   # Experience
   experience:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Junior Software Engineer"
+      - job: "Software Engineer"
         company: "Snapp Box"
         companyUrl: "https://snapp-box.com"
         date: "Nov 2022"
+        content: "Snappbox is an on-demand urban delivery platform in Iran, offering businesses access to the country's largest delivery fleet, revolutionizing last-mile delivery with smart technology and operational excellence."        
+
         featuredLink:
           enable: false
           name: "View the project"
           url: "https://example.com"
         info:
           enable: true
-          content: "I am currently working as a software engineer at [Snapp! Box](https://snapp-box.com) in Tehran, Iran."
+          content: "I am currently working as a software engineer at Snapp! Box in Tehran, Iran."
 
 
       - job: "Back-end Developer"
         company: "Adanic"
         companyUrl: "https://adanic.ir"
         date: "Aug 2022 - Oct 2022"
+        content:  "Adanic, founded in 2014, offers specialized banking solutions in Iran, with key infrastructure products and user-friendly applications. Serving notable clients like Ayandeh Bank and Parsian Bank, Adanic has quickly established itself as a go-to for technical financial expertise."
         featuredLink:
           enable: false
           url: "https://example.com"
         info:
           enable: true
-          content: "I worked as a software developer for 3 months in Adanic."
+          content: "I worked as a back-end developer for 3 months in Adanic."
 
       - job: "Software Developer"
         company: "Informatic Services Corporation"
         companyUrl: "https://isc.co.ir"
         date: "Nov 2021 - Jul 2022"
+        content: "ISC, established in December 1993, is the premier banking system provider for Iran's commercial banks and financial institutions. Headquartered in Tehran, ISC is the largest electronic banking operation in the Middle East, acclaimed for top rankings in technology and service categories. The company specializes in national banking infrastructure, core banking solutions, and offers robust support for over 8,000 branches and 7,000 VSAT terminals, ensuring secure and scalable financial transactions."
         info:
           enable: true
-          content: ""
+          content: "I worked as a software developer for 9 months in ISC."
 
   # Education
   education:
