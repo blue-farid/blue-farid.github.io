@@ -6,8 +6,15 @@
     <description>Recent content on Farid Masjedi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Nov 2023 12:08:55 +0330</lastBuildDate>
+    <lastBuildDate>Thu, 16 Nov 2023 17:44:51 +0330</lastBuildDate>
     <atom:link href="http://blue-farid.ir/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acpc 2023</title>
+      <link>http://blue-farid.ir/blogs/acpc-2023/</link>
+      <pubDate>Thu, 16 Nov 2023 17:44:51 +0330</pubDate>
+      <guid>http://blue-farid.ir/blogs/acpc-2023/</guid>
+      <description>Here is ACPC! ICPC! The International Collegiate Programming Contest (ICPC) is an algorithmic programming contest for college students. Teams of three, representing their university, work to solve the most real-world problems, fostering collaboration, creativity, innovation, and the ability to perform under pressure. Through training and competition, teams challenge each other to raise the bar on the possible. Quite simply, it is the oldest, largest, and most prestigious programming contest in the world.</description>
+    </item>
     <item>
       <title>Initial Post</title>
       <link>http://blue-farid.ir/blogs/initial-post/</link>
@@ -15,6 +22,13 @@
       <guid>http://blue-farid.ir/blogs/initial-post/</guid>
       <description>Welcome to My World! Stay tuned for my posts here!
 Cheers, Farid Masjedi</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://blue-farid.ir/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://blue-farid.ir/gallery/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
