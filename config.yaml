@@ -169,6 +169,7 @@ params:
         - "Kubernetes"
         - "Git"
         - "MySQL"
+        - "Go"  
         - "C"
         - "Python"
         - "Maven"
