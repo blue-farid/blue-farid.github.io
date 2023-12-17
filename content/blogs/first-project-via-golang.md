@@ -8,4 +8,4 @@ draft = false
 
 Recently, I began learning GoLang and just completed my first back-end application using it. This project is actually for my mid-term exam in the 'Web Development' course at AUT. I'm really enjoying GoLang; developing with this awesome language was a great experienc!
 
-Here is the Github [link](https://github.com/blue-farid/WebMidExam)
+Here is the Github [<u>link</u>](https://github.com/blue-farid/WebMidExam)
