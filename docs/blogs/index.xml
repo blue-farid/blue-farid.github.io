@@ -9,11 +9,12 @@
     <lastBuildDate>Sun, 17 Dec 2023 16:52:57 +0330</lastBuildDate>
     <atom:link href="http://blue-farid.ir/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Project via Golang</title>
+      <title>&#34;Go&#34; Turn!</title>
       <link>http://blue-farid.ir/blogs/first-project-via-golang/</link>
       <pubDate>Sun, 17 Dec 2023 16:52:57 +0330</pubDate>
       <guid>http://blue-farid.ir/blogs/first-project-via-golang/</guid>
-      <description>Here is Go! Recently, I began learning GoLang and just completed my first back-end application using it. This project is actually for my mid-term exam in the &amp;lsquo;Web Development&amp;rsquo; course at AUT. I&amp;rsquo;m really enjoying GoLang; developing with this awesome language was a great experienc!</description>
+      <description>My First Project via GoLang! Recently, I began learning GoLang and just completed my first back-end application using it. This project is actually for my mid-term exam in the &amp;lsquo;Web Development&amp;rsquo; course at AUT. I&amp;rsquo;m really enjoying GoLang; developing with this awesome language was a great experienc!
+Here is the Github link</description>
     </item>
     <item>
       <title>Acpc 2023</title>

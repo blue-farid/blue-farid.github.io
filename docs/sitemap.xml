@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://blue-farid.ir/blogs/first-project-via-golang/</loc>
+    <lastmod>2023-12-17T16:52:57+03:30</lastmod>
+  </url><url>
     <loc>http://blue-farid.ir/blogs/</loc>
     <lastmod>2023-12-17T16:52:57+03:30</lastmod>
   </url><url>
     <loc>http://blue-farid.ir/</loc>
-    <lastmod>2023-12-17T16:52:57+03:30</lastmod>
-  </url><url>
-    <loc>http://blue-farid.ir/blogs/first-project-via-golang/</loc>
     <lastmod>2023-12-17T16:52:57+03:30</lastmod>
   </url><url>
     <loc>http://blue-farid.ir/blogs/acpc-2023/</loc>
