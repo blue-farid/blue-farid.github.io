@@ -192,14 +192,6 @@ params:
         info:
           enable: true
           content: "I am currently working as a software engineer at Snapp! Box in Tehran, Iran."
-      - job: "Engineer Manager"
-        company: "Gozar"
-        companyUrl: "https://gozar.team"
-        date: "Feb 2024"
-        content: "Gozar is a young, passionate, and experienced web development crew, always ready to dive into the latest tech and design trends to craft top-notch web goodies for businesses. Got a new project? We're all ears, so hit us up anytime!"
-        info:
-          enable: true
-          content: "I already working as a engineer manager in Gozar"
 
 
       - job: "Back-end Developer"
