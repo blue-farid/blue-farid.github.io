@@ -2,40 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Farid Masjedi</title>
-    <link>http://blue-farid.ir/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Farid Masjedi</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Dec 2023 16:52:57 +0330</lastBuildDate>
-    <atom:link href="http://blue-farid.ir/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>&#34;Go&#34; Turn!</title>
-      <link>http://blue-farid.ir/blogs/first-project-via-golang/</link>
+      <link>http://localhost:1313/blogs/first-project-via-golang/</link>
       <pubDate>Sun, 17 Dec 2023 16:52:57 +0330</pubDate>
-      <guid>http://blue-farid.ir/blogs/first-project-via-golang/</guid>
-      <description>My First Project via GoLang! Recently, I began learning GoLang and just completed my first back-end application using it. This project is actually for my mid-term exam in the &amp;lsquo;Web Development&amp;rsquo; course at AUT. I&amp;rsquo;m really enjoying GoLang; developing with this awesome language was a great experienc!
-Here is the Github link</description>
+      <guid>http://localhost:1313/blogs/first-project-via-golang/</guid>
+      <description>&lt;h1 id=&#34;my-first-project-via-golang&#34;&gt;My First Project via GoLang!&lt;/h1&gt;&#xA;&lt;p&gt;Recently, I began learning GoLang and just completed my first back-end application using it. This project is actually for my mid-term exam in the &amp;lsquo;Web Development&amp;rsquo; course at AUT. I&amp;rsquo;m really enjoying GoLang; developing with this awesome language was a great experienc!&lt;/p&gt;&#xA;&lt;p&gt;Here is the Github &lt;a href=&#34;https://github.com/blue-farid/WebMidExam&#34;&gt;&lt;u&gt;link&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Acpc 2023</title>
-      <link>http://blue-farid.ir/blogs/acpc-2023/</link>
+      <link>http://localhost:1313/blogs/acpc-2023/</link>
       <pubDate>Thu, 16 Nov 2023 17:44:51 +0330</pubDate>
-      <guid>http://blue-farid.ir/blogs/acpc-2023/</guid>
-      <description>Here is ACPC! ICPC! The International Collegiate Programming Contest (ICPC) is an algorithmic programming contest for college students. Teams of three, representing their university, work to solve the most real-world problems, fostering collaboration, creativity, innovation, and the ability to perform under pressure. Through training and competition, teams challenge each other to raise the bar on the possible. Quite simply, it is the oldest, largest, and most prestigious programming contest in the world.</description>
+      <guid>http://localhost:1313/blogs/acpc-2023/</guid>
+      <description>&lt;h1 id=&#34;here-is-acpc&#34;&gt;Here is ACPC!&lt;/h1&gt;&#xA;&lt;h3 id=&#34;icpc&#34;&gt;ICPC!&lt;/h3&gt;&#xA;&lt;p&gt;The International Collegiate Programming Contest (ICPC) is an algorithmic programming contest for college students. Teams of three, representing their university, work to solve the most real-world problems, fostering collaboration, creativity, innovation, and the ability to perform under pressure. Through training and competition, teams challenge each other to raise the bar on the possible. Quite simply, it is the oldest, largest, and most prestigious programming contest in the world.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Initial Post</title>
-      <link>http://blue-farid.ir/blogs/initial-post/</link>
+      <link>http://localhost:1313/blogs/initial-post/</link>
       <pubDate>Wed, 15 Nov 2023 12:08:55 +0330</pubDate>
-      <guid>http://blue-farid.ir/blogs/initial-post/</guid>
-      <description>Welcome to My World! Stay tuned for my posts here!
-Cheers, Farid Masjedi</description>
+      <guid>http://localhost:1313/blogs/initial-post/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-my-world&#34;&gt;Welcome to My World!&lt;/h1&gt;&#xA;&lt;p&gt;Stay tuned for my posts here!&lt;/p&gt;&#xA;&lt;p&gt;Cheers,&#xA;Farid Masjedi&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://blue-farid.ir/gallery/</link>
+      <link>http://localhost:1313/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://blue-farid.ir/gallery/</guid>
+      <guid>http://localhost:1313/gallery/</guid>
       <description></description>
     </item>
   </channel>
